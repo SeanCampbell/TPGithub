@@ -1,6 +1,0 @@
-Word stems
-
-Linear SVM
-Nearest Neighbor Driver with metric Cosine Distance
-WEKA Multilayer Perceptron
-WEKA SMO
